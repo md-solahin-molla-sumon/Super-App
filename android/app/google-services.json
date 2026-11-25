@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15679605086",
+    "project_id": "nexaura-41686",
+    "storage_bucket": "nexaura-41686.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15679605086:android:fcfba80cdf339fa7dde7cf",
+        "android_client_info": {
+          "package_name": "com.nexaura.app.nexaura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6X4xG8D0phls_UR6Id_ohBFO1Rl97jJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
